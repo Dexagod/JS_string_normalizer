@@ -1,0 +1,23 @@
+{
+  "name": "@dexagod/string_normalizer",
+  "version": "1.0.0",
+  "description": "Quick string normalization script to make strings usable in applications such as search trees and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dexagod/JS_string_normalizer.git"
+  },
+  "keywords": [
+    "string",
+    "normalize"
+  ],
+  "author": "Ruben Dedecker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dexagod/JS_string_normalizer/issues"
+  },
+  "homepage": "https://github.com/Dexagod/JS_string_normalizer#readme"
+}
